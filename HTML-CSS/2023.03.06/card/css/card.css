@@ -17,12 +17,6 @@ body {
     border-radius: 8px;
     overflow: hidden;
   }
-  .card-item img {
-    width: 100%;
-    aspect-ratio: 288/196;
-    object-fit: cover;
-    vertical-align: top;
-  }
   
   .card-text {
     padding: 24px 16px 16px;
